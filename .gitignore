@@ -1,0 +1,9 @@
+hotdie/*
+
+!hotdie/src/
+
+hotdie/src/1.properties
+
+!hotdie/web/
+
+hotdie/web/WEB-INF/classes
